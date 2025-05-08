@@ -1,0 +1,34 @@
+## Build results
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## Others
+*.dbmdl
+*.log
+*.vs/
+*.vscode/
+.idea/
+
+## NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+## Rider
+.idea/
+
+## Local secrets
+appsettings.Development.json
+secrets.json
